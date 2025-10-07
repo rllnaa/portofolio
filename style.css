@@ -1,14 +1,14 @@
 body {
   background-color: #FFFFE0; /* Warna kuning cerah */
   font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
-  color: #FADAD9; /* Warna teks utama (Pink rose) */
+  color: #191970 /* Warna teks utama (Pink rose) */
 }
 
 .kartu-profil {
   width: 300px;
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
   padding: 20px;
-  background-color: pink;
+  background-color: pale blush;
   border-radius: 15px; /* Membuat sudut menjadi melengkung */
   box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
   text-align: center; /* Menengahkan semua teks */
